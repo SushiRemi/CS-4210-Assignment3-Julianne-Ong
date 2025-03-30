@@ -3,7 +3,7 @@
 # FILENAME: perceptron.py
 # SPECIFICATION: Creates and trains a single layer perceptron and a multi-layer perceptron to classify optically recgonized handwritten digits.
 # FOR: CS 4210- Assignment #3
-# TIME SPENT: Start - 3/29/2025 6:20 PM ||||| End - 
+# TIME SPENT: Start - 3/29/2025 6:20 PM ||||| End - 3/29/2025 7:00 PM ||||| Total Time: 40 Minutes
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
